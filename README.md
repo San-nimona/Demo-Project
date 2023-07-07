@@ -29,7 +29,7 @@ Check out this document: <a href="https://github.com/ALX-SE-Algorithmia/Demo-Pro
        
       - Again, don't forget to replace 'yourBranchName' with your branch name.
 
-8. Create a pull request.
+8. Create a pull request
 9. Code will be reviewed together, as a team.
 -->
 
